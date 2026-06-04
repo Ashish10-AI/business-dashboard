@@ -4,7 +4,7 @@
 
 ![Dashboard Preview](screenshot-cards.png)
 
-🔗 **[Live Demo]((https://business-dashboard-123.streamlit.app/))** · 📁 **[View Code](https://github.com/Ashish10-AI/business-dashboard/blob/main/dashboard.py)**
+🔗 **[Live Demo](https://business-dashboard-123.streamlit.app/#business-performance-dashboard)** · 📁 **[View Code](https://github.com/Ashish10-AI/business-dashboard/blob/main/dashboard.py)**
 
 ---
 
