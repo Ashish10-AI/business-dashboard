@@ -86,4 +86,4 @@ oauth2client
 ## 👨‍💻 Author
 
 **Ashish** — Freelance Creative Technologist
-[Portfolio]() · [LinkedIn](#) · [GitHub](#)
+[Portfolio](https://my-portfolio-neon-psi-88.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ashish-yadav-a294212b2/) · [GitHub](https://github.com/Ashish10-AI)
